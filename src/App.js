@@ -35,13 +35,16 @@ class BlogPost extends Component {
         <input type="text" name="text" value={this.state.text} onChange={this.handleInput} onKeyUp={this.handleEdit} />
         </>
         :
-        <>
+        <section className="card">
           <h1>{post.title}</h1>
           <p>{post.text}</p>
-        </>
+        </section>
       }
+      <div className="edit-buttons">
       <button onClick={() => this.setState({isEditing: !this.state.isEditing})}>Edit</button>
       <button onClick={() => this.props.deletePost(post)}>Delete</button>
+      </div>
+      
       </li>)
   }
 }
