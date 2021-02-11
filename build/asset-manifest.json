@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/full-crud-blog/static/css/main.e5fc501c.chunk.css",
+    "main.js": "/full-crud-blog/static/js/main.ee2fee5c.chunk.js",
+    "main.js.map": "/full-crud-blog/static/js/main.ee2fee5c.chunk.js.map",
+    "runtime-main.js": "/full-crud-blog/static/js/runtime-main.3493cfe3.js",
+    "runtime-main.js.map": "/full-crud-blog/static/js/runtime-main.3493cfe3.js.map",
+    "static/js/2.d3070985.chunk.js": "/full-crud-blog/static/js/2.d3070985.chunk.js",
+    "static/js/2.d3070985.chunk.js.map": "/full-crud-blog/static/js/2.d3070985.chunk.js.map",
+    "static/js/3.50076da5.chunk.js": "/full-crud-blog/static/js/3.50076da5.chunk.js",
+    "static/js/3.50076da5.chunk.js.map": "/full-crud-blog/static/js/3.50076da5.chunk.js.map",
+    "index.html": "/full-crud-blog/index.html",
+    "static/css/main.e5fc501c.chunk.css.map": "/full-crud-blog/static/css/main.e5fc501c.chunk.css.map",
+    "static/js/2.d3070985.chunk.js.LICENSE.txt": "/full-crud-blog/static/js/2.d3070985.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3493cfe3.js",
+    "static/js/2.d3070985.chunk.js",
+    "static/css/main.e5fc501c.chunk.css",
+    "static/js/main.ee2fee5c.chunk.js"
+  ]
+}
